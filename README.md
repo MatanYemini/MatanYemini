@@ -19,9 +19,9 @@
 - **Systems at scale**: eBPF sensing, WASM sandboxes, Kubernetes, WebRTC streaming.
 
 ### Previously worked on
-- **NATS Steaming Server**: contributed in my other account, deployed it in several production systems
 - **Socket.IO**: worked on socket.io and socket.io-redis-adapter to make sure we can work with socket.io at scale utilizing redis pub/sub mechanism
 - **eBPF**: worked on several ebpf projects.. was quite fun
+- **NATS Steaming Server**: contributed in my other account, deployed it in several production systems
 - **Bitbucket-mcp**: started it for my needs. The first bitbucket MCP that can work in an enterprise without the risk of breaking things.. still the most used bitbucket mcp globally (quite weird)
 - Many more... on the other account as well (I also use a second GitHub account for legacy OSS, org-managed work, and experiments)
 
