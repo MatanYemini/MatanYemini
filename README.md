@@ -23,7 +23,7 @@
 - **eBPF**: worked on several ebpf projects.. was quite fun
 - **NATS Steaming Server**: contributed in my other account, deployed it in several production systems
 - **Bitbucket-mcp**: started it for my needs. The first bitbucket MCP that can work in an enterprise without the risk of breaking things.. still the most used bitbucket mcp globally (quite weird)
-- Many more... on the other account as well (I also use a second GitHub account for legacy OSS, org-managed work, and experiments)
+- Many more... (I also use a second GitHub account for legacy OSS, org-managed work, etc)
 
 ---
 
