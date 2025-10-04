@@ -16,7 +16,7 @@
 - **AI-native cybersecurity**: protecting agentic workflows, data flows, and endpoints without adding SOC noise.
 - **Resilience posture**: measurable RTO/RPO, cross-stack dependency graphs, and evidence-based DR.
 - **Next-gen DLP**: context-aware detection (beyond regex), local/lightweight models, human-in-the-loop.
-- **Systems at scale**: eBPF sensing, WASM sandboxes, Kubernetes, WebRTC streaming.
+- **Systems at scale**: Kubernetes, WebRTC streaming.
 
 ### Previously worked on
 - **Socket.IO**: worked on socket.io and socket.io-redis-adapter to make sure we can work with socket.io at scale utilizing redis pub/sub mechanism
